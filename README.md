@@ -861,3 +861,125 @@ Student ARUN got maximum marks = 78 in Subject : 0
 Student ARUN got maximum marks = 98 in Subject : 1 
 Student ARUN got maximum marks = 67 in Subject : 2 
 ARUN obtained the total highest marks.
+
+==============content beyond the sylabus ===============
+------------------cbs-1------------------------------
+postfix evaluation: -4
+
+-------------------cbs-2--------------------------------
+1. Producer
+2. Consumer
+3. Display
+4. Exit
+Enter your choice: 1
+Enter the piece of data: 3
+1. Producer
+2. Consumer
+3. Display
+4. Exit
+Enter your choice: 1
+Enter the piece of data: 5
+1. Producer
+2. Consumer
+3. Display
+4. ExitEnter your choice: 3
+The data are
+3
+5
+1. Producer
+2. Consumer
+3. Display
+4. Exit
+Enter your choice: 2
+The consumed data is=3
+1. Producer
+2. Consumer
+3. Display
+4. Exit
+Enter your choice: 3
+The data are
+5
+1. Producer
+2. Consumer
+3. Display
+4. Exit
+Enter your choice: 4
+Exit
+
+--------snake game----------
+
+--- SNAKE GAME ---
+Move: w=Up a=Left s=Down d=Right q=Quit
+##############
+#            #
+#            #
+#            #
+#            #
+#   ooO      #
+#            #
+#       *    #
+#            #
+##############
+Score: 0
+Enter move: d
+##############
+#            #
+#            #
+#            #
+#            #
+#    ooO     #
+#            #
+#       *    #
+#            #
+##############
+Score: 0
+Enter move: d
+##############
+#            #
+#            #
+#            #
+#            #
+#     ooO    #
+#            #
+#       *    #
+#            #
+##############
+Score: 0
+Enter move: s
+##############
+#            #
+#            #
+#            #
+#            #
+#      oo    #
+#       O    #
+#       *    #
+#            #
+##############
+Score: 0
+Enter move: s
+##############
+#            #
+#            #
+#            #
+#         *  #
+#      oo    #
+#       o    #
+#       O    #
+#            #
+##############
+Score: 10
+Enter move: s
+##############
+#            #
+#            #
+#            #
+#         *  #
+#       o    #
+#       o    #
+#       o    #
+#       O    #
+##############
+Score: 10
+Enter move: s
+GAME OVER! Final Score: 10
